@@ -8,6 +8,26 @@ I'm a dedicated Software Tester with a passion for ensuring the highest quality 
 - **Languages:** Java, Python, JavaScript
 - **Frameworks:** Selenium WebDriver, Cucumber
 - **Other Skills:** Test Planning, Test Case Design, Bug Reporting, CI/CD (Jenkins, GitHub Actions)
+  ##
+  <div align="center">
+
+	<table>
+
+		<tr>
+
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"/></code></td>
+
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code></td>
+
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="Cucumber" title="Cucumber"/></code></td>
+
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code></td>
+
+		</tr>
+
+	</table>
+
+</div>
 
 
 - 🔭 I’m currently working on ...
