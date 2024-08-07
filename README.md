@@ -1,9 +1,7 @@
 ## Hi there, I'm Vaishnavi Lakhore👋
 
-<!--
-**vaishnavi99572/vaishnavi99572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a dedicated Software Tester with a passion for ensuring the highest quality in software products. With a keen eye for detail and a systematic approach, I specialize in both manual and automated testing. My goal is to identify bugs early, improve user experiences, and ensure robust software solutions. I have experience in testing web applications, mobile apps, and APIs, and I'm always eager to learn new tools and techniques.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
