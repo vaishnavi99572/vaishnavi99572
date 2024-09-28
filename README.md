@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lakhore</h1>
-<h1 align="center">img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..</h1>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..
 - 🌱 I’m currently learning Mobile testing,Performance testing
 
