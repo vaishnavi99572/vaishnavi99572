@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lakhore</h1>
 - 🌱 I’m currently learning Mobile testing,Performance testing
 
-- 💬 Ask me about **Manual testing,Selenium,Cypress,API**
+- 💬 Ask me about Manual testing,Selenium,Cypress,API
 
 - 📫 How to reach me **vaishnavilakhore@gmail.com**
 
