@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavi99572" alt="vaishnavi99572" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile testing,Performance testing**
-
-- 💬 Ask me about **Manual testing,Cypress,Selenium,API testing**
+- 💬 Ask me about **Manual testing,Cypress,Selenium,API testing,Mobile Testing**
 
 - 📫 How to reach me **vaishnavilakhore@gmail.com**
 
